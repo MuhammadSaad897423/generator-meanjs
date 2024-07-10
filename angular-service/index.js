@@ -57,3 +57,4 @@ var ServiceGenerator = yeoman.generators.Base.extend({
 });
 
 module.exports = ServiceGenerator;
+this.moduleName = props.moduleName [http]//.,
